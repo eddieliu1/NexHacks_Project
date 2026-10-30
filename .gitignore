@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Session output (recorded speech)
+transcript_*.txt
+factcheck_*.txt
+
+# OS
+.DS_Store
