@@ -105,3 +105,4 @@ Make sure microphone permissions are enabled for your terminal or IDE.
 API keys should never be hardcoded or committed to GitHub.
 
 Diarization quality depends heavily on audio quality and background noise.
+# NexHacks_Project
